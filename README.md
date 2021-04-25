@@ -10,7 +10,7 @@ Module 1 Challenge Submission
 
 #### Analysis of Outcomes based on Launch Dates
 
-##### I was able to produce the below chart off a PIVOT regarding Funding of the Theater in a monthly view. Theater_Outcomes_vs_Launch.png. Here you can see that funding was more successful in the early parts of every year, specifically in May and June.
+###### I was able to produce the below chart off a PIVOT regarding Funding of the Theater in a monthly view. Theater_Outcomes_vs_Launch.png. Here you can see that funding was more successful in the early parts of every year, specifically in May and June.
 
 #### Challenges
 
